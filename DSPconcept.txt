@@ -1,0 +1,25 @@
+DSP Seed Finder
+
+
+
+
+"STARTING SYSTEM"
+
+S     X   X   X
+
+
+Select one for the Gas/Ice Giant (select if you want a specific one)
+Select X or the giant for planets
+Use game checks to see if it's even valid (like Lava at 3rd planet out being invalid)
+
+
+Right click the planets:
+IF planet, show a min-max radius solar orbit bar
+IF moon, show  a min-max radius planet orbit bar
+
+Right click the sun:
+
+
+
+
+Find what characteristics are static and dynamic with each planet type.
